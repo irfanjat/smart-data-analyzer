@@ -88,7 +88,7 @@ smart_data_analyzer/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/smart-data-analyzer.git
+git clone https://github.com/irfanjat/smart-data-analyzer.git
 cd smart-data-analyzer
 
 # 2. Create virtual environment
