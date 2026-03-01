@@ -117,7 +117,7 @@ streamlit run dashboard/app.py
 
 ```bash
 # Clone and run with Docker Compose
-git clone https://github.com/YOUR_USERNAME/smart-data-analyzer.git
+git clone https://github.com/irfanjat/smart-data-analyzer.git
 cd smart-data-analyzer
 
 # Add your dataset to data/raw/netflix_titles.csv, then:
