@@ -10,8 +10,6 @@
 [![Plotly](https://img.shields.io/badge/Plotly-5.22.0-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)](https://plotly.com)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 
-**Developer:** Irfan Ali &nbsp;|&nbsp; **Supervisor:** Professor Dileep Krishna  
-**University of Sindh (SULC), Jamshoro, Pakistan** &nbsp;|&nbsp; March 2026
 
 [Features](#-features) • [Quick Start](#-quick-start) • [Architecture](#-architecture) • [Dashboard](#-dashboard) • [DevOps](#-devops-deployment) • [Contributing](#-contributing)
 
@@ -255,8 +253,7 @@ This project is licensed under the MIT License — see [LICENSE](LICENSE) for de
 ## 👨‍💻 Author
 
 **Irfan Ali**  
-University of Sindh (SULC), Jamshoro, Pakistan  
-Supervised by: Professor Dileep Krishna  
+
 
 ---
 
