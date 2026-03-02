@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎬 Smart Data Quality Analyzer & Dashboard
+# 🎬 Smart Data Quality Analyzer & Dashboard!
 
 ### An end-to-end Python data pipeline for automated data cleaning, quality assessment, and interactive visualization
 
