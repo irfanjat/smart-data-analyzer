@@ -26,7 +26,7 @@ Real-world datasets are rarely clean. This project builds a **complete, modular 
 3. **Cleans** all detected issues with a full audit trail logged to the database
 4. **Visualizes** before/after insights through a 6-page interactive Streamlit dashboard
 
-Built as a term project for **Advanced Database Management Systems**, this pipeline directly demonstrates DBMS concepts including schema design, DDL/DML, transactions, data integrity, and audit logging.
+Built as a term project, for **Advanced Database Management Systems**, this pipeline directly demonstrates DBMS concepts including schema design, DDL/DML, transactions, data integrity, and audit logging.
 
 ---
 
