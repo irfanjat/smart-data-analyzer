@@ -19,7 +19,7 @@
 
 ## 📌 Overview
 
-Real-world datasets are rarely clean. This project builds a **complete, modular 4-stage data pipeline** that:
+Real-world datasets are rarely clean. This project builds a **complete, modular 4-stage data pipeline** that :
 
 1. **Ingests** raw CSV data into a normalized SQLite relational database
 2. **Assesses** data quality across 5 issue categories automatically
